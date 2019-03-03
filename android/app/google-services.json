@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "997093318213",
+    "firebase_url": "https://clockr-d2054.firebaseio.com",
+    "project_id": "clockr-d2054",
+    "storage_bucket": "clockr-d2054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997093318213:android:e96e52e7c9fe2912",
+        "android_client_info": {
+          "package_name": "com.gtbank.clockr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997093318213-muqu7cdf0ujg32rki2jhshm6ibmge1o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe7TiRXMRRSJ0CTvLG3HnsDYj6zSDFGkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

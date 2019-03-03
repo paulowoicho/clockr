@@ -1,11 +1,11 @@
 # Uncomment the next line to define a global platform for your project
 platform :ios, '9.0'
 
-target 'RNFirebaseStarter' do
+target 'clockr' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 
-  # Pods for RNFirebaseStarter
+  # Pods for clockr
 
   # Required by RNFirebase
   pod 'Firebase/Core', '~> 5.15.0'
@@ -25,5 +25,7 @@ target 'RNFirebaseStarter' do
   pod 'Firebase/Performance', '~> 5.15.0'
   pod 'Fabric', '~> 1.7.13'
   pod 'Crashlytics', '~> 3.10.9'
+
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
 
 end
